@@ -50,3 +50,12 @@ button.orange {
   background-color: orange;
   color: white;
 }
+
+button.double {
+  grid-row: span 2;
+}
+
+button.double-size {
+  grid-row: span 2;
+  grid-column: span 2;
+}
