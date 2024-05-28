@@ -37,7 +37,7 @@ To use this project, you need a web browser installed on your computer.
 
 2. **Navigate to the project directory**:
     ```bash
-    cd calculator
+    cd simple-calculator
     ```
 
 3. **Open `index.html` in a web browser**:

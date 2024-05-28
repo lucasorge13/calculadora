@@ -45,3 +45,8 @@ button:hover {
 button.zero {
   grid-column: span 2;
 }
+
+button.orange {
+  background-color: orange;
+  color: white;
+}
